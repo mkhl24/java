@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdaa2f21-9a4e-4069-8247-4566cf5a0bdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TWjYrZxaEgyDO0jWK7MqORci08" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkhl24.Main" />
+      <module name="AbstractClassesChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdaa2f21-9a4e-4069-8247-4566cf5a0bdf" name="Default Changelist" comment="" />
+      <created>1573582795359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573582795359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1574963073996">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="484" y="141" width="424" height="520" key="FileChooserDialogImpl/47.27.1319.741@47.27.1319.741" timestamp="1574963073996" />
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1574962275223">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog/47.27.1319.741@47.27.1319.741" timestamp="1574962275223" />
+    <state x="47" y="27" width="1309" height="741" key="new project wizard" timestamp="1574963092105">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="47" y="27" width="1309" height="741" key="new project wizard/47.27.1319.741@47.27.1319.741" timestamp="1574963092105" />
+  </component>
+</project>

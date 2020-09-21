@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b55b3c65-a8a5-4c6c-9cf0-58ef00d5078b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UhP1iyHbTG2T6QkFIYMqG4REPb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mkhl24" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mkhl24" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/mkhl24" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkhl24.Main" />
+      <module name="GenericsChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b55b3c65-a8a5-4c6c-9cf0-58ef00d5078b" name="Default Changelist" comment="" />
+      <created>1575805640177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575805640177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1575811518719">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="514" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/47.27.1319.741@47.27.1319.741" timestamp="1575811518719" />
+    <state x="439" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575811845525">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="439" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/47.27.1319.741@47.27.1319.741" timestamp="1575811845525" />
+    <state x="932" y="248" width="424" height="520" key="FileChooserDialogImpl" timestamp="1578394829198">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="932" y="248" width="424" height="520" key="FileChooserDialogImpl/47.27.1319.741@47.27.1319.741" timestamp="1578394829198" />
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578393738545">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog/47.27.1319.741@47.27.1319.741" timestamp="1578393738545" />
+    <state x="329" y="204" width="876" height="487" key="new project wizard" timestamp="1578394849065">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="329" y="204" width="876" height="487" key="new project wizard/47.27.1319.741@47.27.1319.741" timestamp="1578394849065" />
+  </component>
+</project>
