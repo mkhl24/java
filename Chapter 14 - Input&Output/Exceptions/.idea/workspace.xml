@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ff712e1-201a-4c17-9293-4b758912c71f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtPPTnVW00apqpx1ykZwGC664C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkhl24.Example" />
+      <module name="Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mkhl24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkhl24.Main" />
+      <module name="Exceptions" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff712e1-201a-4c17-9293-4b758912c71f" name="Default Changelist" comment="" />
+      <created>1583758892147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583758892147</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="433" height="279" key="GridCell.Tab.0.bottom" timestamp="1583763787070">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="433" height="279" key="GridCell.Tab.0.bottom/47.27.1319.741@47.27.1319.741" timestamp="1583763787070" />
+    <state width="433" height="279" key="GridCell.Tab.0.center" timestamp="1583763787068">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="433" height="279" key="GridCell.Tab.0.center/47.27.1319.741@47.27.1319.741" timestamp="1583763787068" />
+    <state width="433" height="279" key="GridCell.Tab.0.left" timestamp="1583763787066">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="433" height="279" key="GridCell.Tab.0.left/47.27.1319.741@47.27.1319.741" timestamp="1583763787066" />
+    <state width="433" height="279" key="GridCell.Tab.0.right" timestamp="1583763787069">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="433" height="279" key="GridCell.Tab.0.right/47.27.1319.741@47.27.1319.741" timestamp="1583763787069" />
+    <state x="488" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1583778962240">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="488" y="244" key="com.intellij.ide.util.TipDialog/47.27.1319.741@47.27.1319.741" timestamp="1583778962240" />
+    <state x="47" y="27" width="1309" height="741" key="new project wizard" timestamp="1583779476657">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="47" y="27" width="1309" height="741" key="new project wizard/47.27.1319.741@47.27.1319.741" timestamp="1583779476657" />
+  </component>
+</project>

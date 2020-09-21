@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95cbac87-6298-47b1-a30f-7940899ab740" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1W434d6GDbvWGfZS0ZYwfqTcnkQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkhl24.Main" />
+      <module name="Packages" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95cbac87-6298-47b1-a30f-7940899ab740" name="Default Changelist" comment="" />
+      <created>1578394849511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578394849511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="47" y="84" width="800" height="684" key="#Auto_Import" timestamp="1578395075966">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="47" y="84" width="800" height="684" key="#Auto_Import/47.27.1319.741@47.27.1319.741" timestamp="1578395075966" />
+    <state x="258" y="31" width="906" height="737" key="SettingsEditor" timestamp="1578395922352">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="258" y="31" width="906" height="737" key="SettingsEditor/47.27.1319.741@47.27.1319.741" timestamp="1578395922352" />
+    <state x="218" y="155" width="826" height="479" key="new project wizard" timestamp="1578396214429">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="218" y="155" width="826" height="479" key="new project wizard/47.27.1319.741@47.27.1319.741" timestamp="1578396214429" />
+  </component>
+</project>

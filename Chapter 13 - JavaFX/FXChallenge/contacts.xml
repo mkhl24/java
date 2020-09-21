@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Bob</first_name>
+	<last_name>Mom</last_name>
+	<phone_number>1242231</phone_number>
+	<notes>123</notes>
+</contact>
+<contact>
+	<first_name>Mikle</first_name>
+	<last_name>Been</last_name>
+	<phone_number>1232</phone_number>
+	<notes>nice guy</notes>
+</contact>
+<contact>
+	<first_name>banana</first_name>
+	<last_name>banananana</last_name>
+	<phone_number>ban123</phone_number>
+	<notes>totally banana</notes>
+</contact>
+</contacts>
