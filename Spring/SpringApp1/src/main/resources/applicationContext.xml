@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:util="http://www.springframework.org/schema/util"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/util
+        http://www.springframework.org/schema/util/spring-util-2.5.xsd">
+
+    <context:property-placeholder location="classpath:musicPlayer.properties"/>
+
+    <util:list id="musicList" value-type="org.myexample.Music">
+        <ref bean="classicalMusicBean" />
+        <ref bean="rockMusicBean" />
+        <ref bean="popMusicBean" />
+    </util:list>
+
+    <bean id="rockMusicBean"
+          class="org.myexample.RockMusic">
+<!--          class="org.myexample.Music"> // not Interface-->
+    </bean><bean id="classicalMusicBean"
+          class="org.myexample.ClassicalMusic"
+            init-method="doMyInit"
+            destroy-method="doMyDestroy"
+            factory-method="getClassicalMusic">
+    </bean><bean id="popMusicBean"
+          class="org.myexample.PopMusic">
+    </bean>
+
+
+    <bean id="musicPlayerBean"
+          class="org.myexample.MusicPlayer"
+        scope="prototype"
+        init-method="initMusicPlayer"
+        destroy-method="destroyMusicPlayer">
+
+<!--        <constructor-arg ref="musicBean" />-->
+<!--        <property name="music" ref="musicBean"/>-->
+
+        <property name="name" value="Some name"/>
+        <property name="volume" value="50"/>
+
+<!--        <property name="name" value="${musicPlayer.name}"/>-->
+<!--        <property name="volume" value="${musicPlayer.volume}"/>-->
+
+        <property name="musicList" ref="musicList" />
+    </bean>
+
+
+
+</beans>
