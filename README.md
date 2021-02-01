@@ -1,3 +1,3 @@
 # java-study
 
-Chapter separated projects made during education
+Chapter separated projects 
